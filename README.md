@@ -18,8 +18,6 @@ It comes with **music playback, playlist management, real-time updates, analytic
 
 🚀 **Live Demo:** [Streamify on Render](https://streamify-pjgx.onrender.com/)
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 ---
 
 ## 🚀 Features
