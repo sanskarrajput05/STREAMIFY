@@ -8,7 +8,7 @@
 		"start": "npm start --prefix backend"
 	},
 	"keywords": [],
-	"author": "Saksham",
+	"author": "Sanskar",
 	"license": "ISC",
 	"type": "commonjs"
 }
